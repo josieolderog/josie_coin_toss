@@ -8,6 +8,7 @@ img {
     flex-direction: column;
     flex-basis: 90vw;
     align-items: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 2rem;
   }
   .flex {
@@ -17,6 +18,7 @@ img {
   section {
     margin-top: 2rem;
     width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
   }
   section span {
