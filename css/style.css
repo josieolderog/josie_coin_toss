@@ -8,7 +8,7 @@ img {
     flex-direction: column;
     flex-basis: 90vw;
     align-items: center;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     padding: 2rem;
   }
   .flex {
